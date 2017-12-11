@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Submit
-description: >
-  Submit your paper to Linking Organized Crime and Cybercrime 2018.
+description:
 menu: true
 order: 2
 ---
