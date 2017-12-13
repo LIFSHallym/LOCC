@@ -9,7 +9,7 @@ criminal organizations are using technology to facilitate traditional crime, and
 conduct new types of crime.
 
 LOCC 2018 is generously sponsored by the [United Nations Office on Drugs and Crime](https://unodc.org),
-and the [Education for Justice](https://educationforjustice.org) program.
+and the [Education for Justice](http://www.unodc.org/dohadeclaration/en/topics/education-for-justice.html) program.
 
 There are **no submission, publication or registration fees**. Further, accepted papers
 will be provided with flights and a per diem scholarship.
@@ -23,7 +23,7 @@ We seek research papers on the following topics:
 * Organized crime and smuggling of migrants online
 * New types of organized crime in cyberspace
 
-Please [submit](https://lifshallym.github.io/LOCC/pSubmit/) your paper now.
+Please [submit](https://locc.dfir.science/pSubmit/) your paper now.
 
 ## Dates
 * Call for Papers: December 18, 2017

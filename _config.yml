@@ -15,7 +15,7 @@ url:                   https://LOCC.dfir.science
 # When using GitHub Pages, set to '' when hosting a user- or organization page,
 # i.e. when the name of the repository looks like <username>.github.io.
 # Otherwise, set to /<name of repository> (with leading /, but without the < >).
-baseurl:               '/LOCC'
+baseurl:               ''
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
@@ -28,13 +28,13 @@ title:                 LOCC 2018
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
   **Linking Organized Crime and Cybercrime 2018** conference site. Sponsored by
-  [UNODC](https://www.unodc.org/) and [Education for Justice](https://educationforjustice.org/).
+  [UNODC](https://www.unodc.org/) and [Education for Justice](http://www.unodc.org/dohadeclaration/en/topics/education-for-justice.html).
   Hosted by [LIFS@Hallym](https://cis.hallym.ac.kr).
 
 # A shorter description for the sidebar.
 tagline:               >
   **Linking Organized Crime and Cybercrime 2018** conference site. Sponsored by
-  [UNODC](https://www.unodc.org/) and [Education for Justice](https://educationforjustice.org/).
+  [UNODC](https://www.unodc.org/) and [Education for Justice](http://www.unodc.org/dohadeclaration/en/topics/education-for-justice.html).
   Hosted by [LIFS@Hallym](https://cis.hallym.ac.kr).
 
 # A list of keywords for your blog
