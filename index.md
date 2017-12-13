@@ -19,7 +19,7 @@ We seek research papers on the following topics:
 * **Case Studies very much preferred**
 * Organized crime enabled by technology
 * Organized crime supported by technology
-* Organized crime and trafficking of persons online
+* Organized crime and trafficking in persons online
 * Organized crime and smuggling of migrants online
 * New types of organized crime in cyberspace
 
