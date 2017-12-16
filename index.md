@@ -4,12 +4,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-Linking Organized Crime and Cybercrime 2018 is dedicated to understanding the way
-criminal organizations are using technology to facilitate traditional crime, and
-conduct new types of crime.
+Linking Organized Crime and Cybercrime 2018 is dedicated to understanding the way organized criminal groups are using technology to facilitate traditional crime, and conduct new types of crime.
 
-LOCC 2018 is generously sponsored by the [United Nations Office on Drugs and Crime](https://unodc.org),
-and the [Education for Justice](http://www.unodc.org/dohadeclaration/en/topics/education-for-justice.html) program.
+LOCC 2018 is generously sponsored by the [United Nations Office on Drugs and Crime](https://unodc.org)
+under its Global Programme for the Implementation of the Doha Declaration.
 
 There are **no submission, publication or registration fees**. Further, accepted papers
 will be provided with flights and a per diem scholarship.
@@ -17,11 +15,9 @@ will be provided with flights and a per diem scholarship.
 ## Topics of Interest
 We seek research papers on the following topics:
 * **Case Studies very much preferred**
-* Organized crime enabled by technology
-* Organized crime supported by technology
-* Organized crime and trafficking in persons online
-* Organized crime and smuggling of migrants online
-* New types of organized crime in cyberspace
+*	Organized crime enabled/supported by technology
+*	Trafficking in persons and smuggling of migrants enabled/supported by technology
+*	New types of organized crime in cyberspace
 
 Please [submit](https://locc.dfir.science/pSubmit/) your paper now.
 

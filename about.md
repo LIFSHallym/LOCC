@@ -5,13 +5,11 @@ description:
 menu: true
 order: 1
 ---
-Linking Organized Crime and Cybercrime 2018 is dedicated to understanding the way
-criminal organizations are using technology to facilitate traditional crime, and
-conduct new types of crime.
+Linking Organized Crime and Cybercrime 2018 is dedicated to understanding the way organized criminal groups are using technology to facilitate traditional crime, and conduct new types of crime.
 
 ## Fees
-LOCC 2018 is generously sponsored by the [United Nations Office on Drugs and Crime](https://unodc.org),
-and the [Education for Justice](https://educationforjustice.org) program.
+LOCC 2018 is generously sponsored by the [United Nations Office on Drugs and Crime](https://unodc.org)
+under its Global Programme for the Implementation of the Doha Declaration.
 
 There are no submission, publication or registration fees. Further, accepted papers
 will be provided with flights and a per diem scholarship.
