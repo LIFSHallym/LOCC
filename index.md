@@ -1,5 +1,5 @@
 ---
-title: Linking Organized Crime and Cybercrime 2018, Chuncheon, South Korea
+title: Linking Organized Crime and Cybercrime
 feature_text:
 feature_image: "https://unsplash.it/1300/400?image=971"
 excerpt: ""

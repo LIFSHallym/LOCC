@@ -1,111 +1,43 @@
 ---
-title: Elements
-feature_text: |
-  A demo of Markdown and HTML includes
+title: Venue and Info
+feature_text:
 feature_image: "https://unsplash.it/1300/400?image=1061"
-excerpt: "A demo of Markdown and HTML includes"
-aside: true
+excerpt: "About Chuncheon, Korea and the venue"
+aside: flase
 ---
+Linking Organized Crime and Cybercrime 2018 will be held at Hallym University in
+Chuncheon, South Korea on June 26-27, 2018.
 
-# Heading 1
+## Location
+Legal Informatics and Forensic Science Institute, Hallym University,
+1 Hallym University Road, Chuhcheon, Gangwon, South Korea 24252
 
-## Heading 2
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3148.891108137987!2d127.73557815134826!3d37.8862291796398!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3562e5e939c43ac7%3A0x2419c3aa2130905c!2sHallym+University!5e0!3m2!1sen!2skr!4v1512983018581" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-### Heading 3
+## Airports
+South Korea has two main airports, Incheon International (ICN) and Gimpo International (GMP).
 
-#### Heading 4
+## Currency
+The Republic of Korea uses the South Korean Won (KRW). At this time 1,000KRW is usually very close to 1USD. ATMs are very common (and safe) in South Korea, and credit cards are accepted almost everywhere.
 
-##### Heading 5
+The currency exchange with the best rates can be found in the bottom floor of Seoul Station near the AREX airport direct train.
 
-###### Heading 6
+## Getting to Chuncheon
+Taking a bus is the easiest way. Both ICN and GMP have a direct bus to Chuncheon. Bus tickets can be purchased in the arrivals level of each airport. Helpers in at the information booth (with an "i") can help you in multiple languages. Bus ticket machines can be switched to different languages. Chuncheon terminal will be the last station. Bus ticket prices are approximately 16,000KRW one-way, and will take about 2 hours.
 
-<small>A small element</small>
+The South Korean train system is also excellent. Station names are in Korean and English, and stop calls are in multiple languages for main lines. ICN and GMP connect to the Seoul Subway. From the airport, you should go to Seoul Station, and transfer to Youngsan Station. The airport to Youngsan station will cost approximately 2,000KRW.
 
-[A link](https://david.darn.es "A link")
+From Youngsan, I recommend taking the ITX (fast train) to Chuncheon (last stop). The price is 7,000KRW, and it takes approximately 1.5 hours.
 
-Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
+## Hotels
+Chuncheon is a frequent tourist destination, and has many hotel options. Below are
+some that we recommend:
 
-Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
+* [Sejong Hotel Chuncheon](https://www.booking.com/hotel/kr/sejong-chuncheon.en-gb.html?aid=357026;label=gog235jc-hotel-XX-kr-sejongNchuncheon-unspec-kr-com-L%3Aen-O%3AwindowsS10-B%3Achrome-N%3AXX-S%3Abo-U%3AXX-H%3As;sid=dc09bde7d6a3eea1dc896fa639e5029c;dist=0&group_adults=2&group_children=0&no_rooms=1&sb_price_type=total&type=total&) (very close to the venue)
+* [KT&G Sangsangmadang Chuncheon](https://www.booking.com/hotel/kr/kt-amp-g-sangsangmadang-chuncheon-stay.en-gb.html?aid=357026;label=gog235jc-hotel-XX-kr-ktNampNgNsangsangmadangNchuncheonNstay-unspec-kr-com-L%3Aen-O%3AwindowsS10-B%3Achrome-N%3AXX-S%3Abo-U%3AXX-H%3As;sid=dc09bde7d6a3eea1dc896fa639e5029c;dist=0&group_adults=2&group_children=0&no_rooms=1&sb_price_type=total&type=total&)
+* [Other options](https://www.booking.com/city/kr/chunchon.en-gb.html?aid=357026;label=gog235jc-city-XX-kr-chunchon-unspec-kr-com-L%3Aen-O%3AwindowsS10-B%3Achrome-N%3AXX-S%3Abo-U%3AXX-H%3As;sid=dc09bde7d6a3eea1dc896fa639e5029c;inac=0&)
 
-* An item
-* An item
-* An item
-* An item
-* An item
+## Getting around
+Chuncheon is a relatively small town, and it well serviced by public transport and taxis. Taxi is the most convenient method, and drivers are normally very friendly. A taxi ride across town is normally less than 4,000KRW (3.50USD).
 
-1. Item one
-2. Item two
-3. Item three
-4. Item four
-5. Item five
-
-> A simple blockquote
-
-Some HTML...
-
-``` html
-<blockquote cite="http://www.imdb.com/title/tt0284978/quotes/qt1375101">
-  <p>You planning a vacation, Mr. Sullivan?</p>
-  <footer>
-    <a href="http://www.imdb.com/title/tt0284978/quotes/qt1375101">Sunways Security Guard</a>
-  </footer>
-</blockquote>
-```
-
-...CSS...
-
-``` css
-blockquote {
-  text-align: center;
-  font-weight: bold;
-}
-blockquote footer {
-  font-size: .8rem;
-}
-```
-
-...and JavaScript
-
-``` js
-const blockquote = document.querySelector("blockquote")
-const bolden = (keyString, string) =>
-	string.replace(new RegExp(keyString, 'g'), '<strong>'+keyString+'</strong>')
-
-blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
-```
-
-`Single line of code`
-
-## HTML Includes
-
-### Contact form
-
-{% include site-form.html %}
-
-### Demo map embed
-
-{% include map.html id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc" %}
-
-### Button include
-
-{% include button.html text="A button" link="https://david.darn.es" %}
-
-{% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}
-
-### Icon include
-
-{% include icon.html id="twitter" %} [{% include icon.html id="linkedin" %}](https://www.linkedin.com/in/daviddarnes)
-
-### Video include
-
-{% include video.html id="zrkcGL5H3MU" %}
-
-### Image includes
-
-{% include figure.html image="https://unsplash.it/300/400?image=123" caption="Image with caption" %}
-
-{% include figure.html image="https://unsplash.it/300/400?image=123" caption="Right aligned image" position="right" %}
-
-{% include figure.html image="https://unsplash.it/300/400?image=123" position="center" caption="Center aligned image" %}
-
-{% include figure.html image="https://unsplash.it/800/400?image=123" alt="Image with just alt text" %}
+South Korea has excellent public transportation throughout the country. Most public transportation is in both Korean and English (sometimes Chinese and Japanese too).

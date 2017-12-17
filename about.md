@@ -1,111 +1,35 @@
 ---
-title: Elements
-feature_text: |
-  A demo of Markdown and HTML includes
+title: About LOCC2018
+feature_text:
 feature_image: "https://unsplash.it/1300/400?image=1061"
-excerpt: "A demo of Markdown and HTML includes"
-aside: true
+excerpt: "About LOCC2018"
+aside: false
 ---
+Linking Organized Crime and Cybercrime 2018 in Chuncheon, South Korea is dedicated to understanding the way organized criminal groups are using technology to facilitate traditional crime, and conduct new types of crime. [Submit](https://locc.dfir.science/pSubmit/) your paper now.
 
-# Heading 1
+## Fees
+LOCC 2018 is generously sponsored by the [United Nations Office on Drugs and Crime](https://unodc.org)
+under its Global Programme for the Implementation of the Doha Declaration.
 
-## Heading 2
+There are no submission, publication or registration fees. Further, accepted papers
+will be provided with flights and a per diem scholarship.
 
-### Heading 3
+## Dates
+* Call for Papers: December 18, 2017
+* Submissions Due: April 1st, 2018
+* Notification: April 30, 2018
+* Conference: June 26-27, 2018
 
-#### Heading 4
+## Location
+Legal Informatics and Forensic Science Institute, Hallym University,
+1 Hallym University Road, Chuhcheon, Gangwon, South Korea 24252
 
-##### Heading 5
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3148.891108137987!2d127.73557815134826!3d37.8862291796398!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3562e5e939c43ac7%3A0x2419c3aa2130905c!2sHallym+University!5e0!3m2!1sen!2skr!4v1512983018581" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-###### Heading 6
+## Goal
+The goal of LOCC 2018 is to produce novel insights into the linkages between organized crime and cyberspace. Organized crime has increasingly adopted technology to commit crime, and new types of crime are also may possible by cyberspace. This conference is concerned with the way that organized criminals are enabled or supported by technology, especially related to trafficking in persons and smuggling of migrants.
 
-<small>A small element</small>
+## Doha Declaration and Education for Justice (E4J)
+Adopted at the conclusion of the 13th United Nations Congress on Crime Prevention and Criminal Justice, the Doha Declaration highlights the importance of education as a tool to preventing crime and corruption. It emphasizes that education for children and youth is fundamental in promoting a culture that supports the rule of law, crime prevention and criminal justice.
 
-[A link](https://david.darn.es "A link")
-
-Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
-
-Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
-
-* An item
-* An item
-* An item
-* An item
-* An item
-
-1. Item one
-2. Item two
-3. Item three
-4. Item four
-5. Item five
-
-> A simple blockquote
-
-Some HTML...
-
-``` html
-<blockquote cite="http://www.imdb.com/title/tt0284978/quotes/qt1375101">
-  <p>You planning a vacation, Mr. Sullivan?</p>
-  <footer>
-    <a href="http://www.imdb.com/title/tt0284978/quotes/qt1375101">Sunways Security Guard</a>
-  </footer>
-</blockquote>
-```
-
-...CSS...
-
-``` css
-blockquote {
-  text-align: center;
-  font-weight: bold;
-}
-blockquote footer {
-  font-size: .8rem;
-}
-```
-
-...and JavaScript
-
-``` js
-const blockquote = document.querySelector("blockquote")
-const bolden = (keyString, string) =>
-	string.replace(new RegExp(keyString, 'g'), '<strong>'+keyString+'</strong>')
-
-blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
-```
-
-`Single line of code`
-
-## HTML Includes
-
-### Contact form
-
-{% include site-form.html %}
-
-### Demo map embed
-
-{% include map.html id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc" %}
-
-### Button include
-
-{% include button.html text="A button" link="https://david.darn.es" %}
-
-{% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}
-
-### Icon include
-
-{% include icon.html id="twitter" %} [{% include icon.html id="linkedin" %}](https://www.linkedin.com/in/daviddarnes)
-
-### Video include
-
-{% include video.html id="zrkcGL5H3MU" %}
-
-### Image includes
-
-{% include figure.html image="https://unsplash.it/300/400?image=123" caption="Image with caption" %}
-
-{% include figure.html image="https://unsplash.it/300/400?image=123" caption="Right aligned image" position="right" %}
-
-{% include figure.html image="https://unsplash.it/300/400?image=123" position="center" caption="Center aligned image" %}
-
-{% include figure.html image="https://unsplash.it/800/400?image=123" alt="Image with just alt text" %}
+In support of this, the [Education for Justice (E4J)](http://www.unodc.org/dohadeclaration/en/topics/education-for-justice.html) initiative - under the Global Programme for the Implementation of the Doha Declaration - has been developed to create and disseminate education materials in UNODC mandated areas of crime prevention and criminal justice across the primary, secondary and tertiary education levels. Online tools and academic resources will be made available free of charge, while workshops, conferences and symposia will be organized for teachers and academics to learn and exchange ideas and research.

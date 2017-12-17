@@ -1,111 +1,42 @@
 ---
-title: Elements
-feature_text: |
-  A demo of Markdown and HTML includes
+title: Submit to LOCC2018
+feature_text:
 feature_image: "https://unsplash.it/1300/400?image=1061"
-excerpt: "A demo of Markdown and HTML includes"
-aside: true
+excerpt: "Submit your paper to LOCC2018"
+aside: false
 ---
 
-# Heading 1
+To submit your paper to **Linking Organized Crime and Cybercrime 2018** please
+ensure that your submission meets the requirements below. If your paper is ready
+for submission, upload your paper [here](https://easychair.org/conferences/?conf=locc2018). **Note:** You
+will be required to create an account on EasyChair to upload your submission.
 
-## Heading 2
+## Fees
+There are **no submission, publication or registration fees**. Further, accepted papers
+will be provided with flights and a per diem scholarship.
 
-### Heading 3
+LOCC 2018 is generously sponsored by the [United Nations Office on Drugs and Crime](https://unodc.org)
+under its Global Programme for the Implementation of the Doha Declaration.
 
-#### Heading 4
+## Submission requirements
+* Research papers must be original contributions, not duplicate previous work, and must not be under simultaneous publication review elsewhere.
+* Papers must be written in English and must not exceed 10 single-spaced, single-column pages with 1 inch margins and 10pt font. This page limit does NOT include references, although references should be limited to one page to the extent possible.
+* The preferred reference style is [Harvard](http://www.citethisforme.com/harvard-referencing). References should include DOI numbers when possible.
+* Papers must be submitted as PDF files.
+*  Last, please minimize submission file size, while maintaining reasonable graphics quality. Most submissions tend to be 3MB or less.
+*  Accepted authors will be required to provide the article source files (DOCX, ODT or Latex). Higher resolution graphics can be added/included during the final proofing process.
 
-##### Heading 5
+## Presentation requirements
+Authors **must** present their work in person at the conference. Authors should register for the conference prior to submitting their final draft for publication.
 
-###### Heading 6
+At the conference, authors of accepted papers will be given 25 minutes to present their work, followed by 5 minutes of questions.
 
-<small>A small element</small>
+## Topics of Interest
+We seek research papers on the following topics:
+* **Case Studies very much preferred**
+*	Organized crime enabled/supported by technology
+*	Trafficking in persons and smuggling of migrants enabled/supported by technology
+*	New types of organized crime in cyberspace
 
-[A link](https://david.darn.es "A link")
-
-Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
-
-Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
-
-* An item
-* An item
-* An item
-* An item
-* An item
-
-1. Item one
-2. Item two
-3. Item three
-4. Item four
-5. Item five
-
-> A simple blockquote
-
-Some HTML...
-
-``` html
-<blockquote cite="http://www.imdb.com/title/tt0284978/quotes/qt1375101">
-  <p>You planning a vacation, Mr. Sullivan?</p>
-  <footer>
-    <a href="http://www.imdb.com/title/tt0284978/quotes/qt1375101">Sunways Security Guard</a>
-  </footer>
-</blockquote>
-```
-
-...CSS...
-
-``` css
-blockquote {
-  text-align: center;
-  font-weight: bold;
-}
-blockquote footer {
-  font-size: .8rem;
-}
-```
-
-...and JavaScript
-
-``` js
-const blockquote = document.querySelector("blockquote")
-const bolden = (keyString, string) =>
-	string.replace(new RegExp(keyString, 'g'), '<strong>'+keyString+'</strong>')
-
-blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
-```
-
-`Single line of code`
-
-## HTML Includes
-
-### Contact form
-
-{% include site-form.html %}
-
-### Demo map embed
-
-{% include map.html id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc" %}
-
-### Button include
-
-{% include button.html text="A button" link="https://david.darn.es" %}
-
-{% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}
-
-### Icon include
-
-{% include icon.html id="twitter" %} [{% include icon.html id="linkedin" %}](https://www.linkedin.com/in/daviddarnes)
-
-### Video include
-
-{% include video.html id="zrkcGL5H3MU" %}
-
-### Image includes
-
-{% include figure.html image="https://unsplash.it/300/400?image=123" caption="Image with caption" %}
-
-{% include figure.html image="https://unsplash.it/300/400?image=123" caption="Right aligned image" position="right" %}
-
-{% include figure.html image="https://unsplash.it/300/400?image=123" position="center" caption="Center aligned image" %}
-
-{% include figure.html image="https://unsplash.it/800/400?image=123" alt="Image with just alt text" %}
+## Submit
+Submit research papers at [https://easychair.org/conferences/?conf=locc2018](https://easychair.org/conferences/?conf=locc2018).
