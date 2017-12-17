@@ -86,8 +86,7 @@ navigation_header:
   Venue and Info: /venue/
 
 navigation_footer:
-  **Linking Organized Crime and Cybercrime 2018** conference site. Sponsored by
-  [UNODC](https://www.unodc.org/) and hosted by [LIFS@Hallym](https://cis.hallym.ac.kr).
+  Linking Organized Crime and Cybercrime 2018 conference site. Sponsored by [UNODC](https://www.unodc.org/) and hosted by [LIFS@Hallym](https://cis.hallym.ac.kr).
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   RSS: /feed.xml
