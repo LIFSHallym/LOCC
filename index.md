@@ -1,9 +1,10 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+title: Linking Organized Crime and Cybercrime 2018, Chuncheon, South Korea
+feature_text:
+feature_image: "https://unsplash.it/1300/400?image=971"
+excerpt: ""
 ---
+
 Linking Organized Crime and Cybercrime 2018 in Chuncheon, South Korea is dedicated to understanding the way organized criminal groups are using technology to facilitate traditional crime, and conduct new types of crime.
 
 LOCC 2018 is generously sponsored by the [United Nations Office on Drugs and Crime](https://unodc.org)
