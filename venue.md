@@ -1,7 +1,7 @@
 ---
-title: Venue and Info
+title: Location
 feature_text:
-feature_image: "https://unsplash.it/1300/400?image=1061"
+feature_image: ""
 excerpt: "About Chuncheon, Korea and the venue"
 aside: flase
 ---
