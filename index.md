@@ -20,7 +20,7 @@ We seek research papers on the following topics:
 *	Trafficking in persons and smuggling of migrants enabled/supported by technology
 *	New types of organized crime in cyberspace
 
-Please [submit](https://locc.dfir.science/pSubmit/) your paper now.
+Please [submit](https://locc.dfir.science/submit/) your paper now.
 
 ## Dates
 * Call for Papers: December 18, 2017
