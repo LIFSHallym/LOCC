@@ -81,9 +81,9 @@ avatarurl: "" # Uses avatars for favicons to get multple sites, eg Gravatar, Twi
 navigation_header:
   Home: /
   Submit: /submit/
-  About LOCC: /about/
+  About: /about/
   News: /news/
-  Venue and Info: /venue/
+  Venue: /venue/
 
 navigation_footer:
     Linking Organized Crime and Cybercrime 2018: https://loc.dfir.science

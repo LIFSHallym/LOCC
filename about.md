@@ -1,5 +1,5 @@
 ---
-title: About
+title: About LOCC2018
 feature_text:
 feature_image: ""
 excerpt: "About LOCC2018"
