@@ -1,7 +1,7 @@
 ---
 title: About LOCC2018
 feature_text:
-feature_image: "https://unsplash.it/1300/400?image=1061"
+feature_image: ""
 excerpt: "About LOCC2018"
 aside: false
 ---
