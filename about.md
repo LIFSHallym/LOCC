@@ -16,9 +16,9 @@ will be provided with flights and a per diem scholarship.
 
 ## Dates
 * Call for Papers: December 18, 2017
-* Submissions Due: April 1st, 2018
-* Notification: April 30, 2018
-* Conference: June 26-27, 2018
+* Submissions Due: March 18, 2018 (AoE)
+* Notification: April 1, 2018
+* Conference: June 5-6, 2018
 
 ## Location
 Legal Informatics and Forensic Science Institute, Hallym University,
