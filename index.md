@@ -24,6 +24,6 @@ Please [submit](https://locc.dfir.science/submit/) your paper now.
 
 ## Dates
 * Call for Papers: December 18, 2017
-* Submissions Due: March 18, 2018 (AoE)
-* Notification: April 1, 2018
-* Conference: June 5-6, 2018
+* Submissions Due: March 30, 2018 (AoE)
+* Author Notification: April 30, 2018
+* Conference: June 6-7, 2018
