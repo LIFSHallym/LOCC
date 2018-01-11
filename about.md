@@ -14,6 +14,8 @@ under its Global Programme for the Implementation of the Doha Declaration.
 There are no submission, publication or registration fees. Further, accepted papers
 will be provided with flights and a per diem scholarship.
 
+UNODC will cover the cost of participation of the selected authors, in accordance with UN financial rules and regulations (i.e. daily subsistence allowance and economy-class airfare).
+
 ## Dates
 * Call for Papers: December 18, 2017
 * Submissions Due: March 30, 2018 (AoE)
@@ -33,3 +35,7 @@ The goal of LOCC 2018 is to produce novel insights into the linkages between org
 Adopted at the conclusion of the 13th United Nations Congress on Crime Prevention and Criminal Justice, the Doha Declaration highlights the importance of education as a tool to preventing crime and corruption. It emphasizes that education for children and youth is fundamental in promoting a culture that supports the rule of law, crime prevention and criminal justice.
 
 In support of this, the [Education for Justice (E4J)](http://www.unodc.org/dohadeclaration/en/topics/education-for-justice.html) initiative - under the Global Programme for the Implementation of the Doha Declaration - has been developed to create and disseminate education materials in UNODC mandated areas of crime prevention and criminal justice across the primary, secondary and tertiary education levels. Online tools and academic resources will be made available free of charge, while workshops, conferences and symposia will be organized for teachers and academics to learn and exchange ideas and research.
+
+The E4J initiative (http://www.unodc.org/dohadeclaration/topics/education-for-justice.html) aims to build a culture of lawfulness amongst children and youth through the provision of age-appropriate educational materials on topics related to criminal justice and crime prevention, including organized crime, human trafficking and migrant smuggling, cybercrime, and the integration of those materials into the curricula of primary, secondary and tertiary education levels.
+
+This event will explore insights and produce material for tertiary education, which includes universities and higher vocational institutes. At the tertiary level, E4J aims to develop modules and materials that support academics in their teaching and research activities related to UNODC mandate areas.
