@@ -23,8 +23,8 @@ under its Global Programme for the Implementation of the Doha Declaration.
 * Papers must be written in English and must not exceed 10 single-spaced, single-column pages with 1 inch margins and 10pt font. This page limit does NOT include references, although references should be limited to one page to the extent possible.
 * The preferred reference style is [Harvard](http://www.citethisforme.com/harvard-referencing). References should include DOI numbers when possible.
 * Papers must be submitted as PDF files.
-*  Last, please minimize submission file size, while maintaining reasonable graphics quality. Most submissions tend to be 3MB or less.
-*  Accepted authors will be required to provide the article source files (DOCX, ODT or Latex). Higher resolution graphics can be added/included during the final proofing process.
+* Last, please minimize submission file size, while maintaining reasonable graphics quality. Most submissions tend to be 3MB or less.
+* Accepted authors will be required to provide the article source files (DOCX, ODT or Latex). Higher resolution graphics can be added/included during the final proofing process.
 
 ## Presentation requirements
 Authors **must** present their work in person at the conference. Authors should register for the conference prior to submitting their final draft for publication.

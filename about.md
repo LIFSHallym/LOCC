@@ -39,3 +39,6 @@ In support of this, the [Education for Justice (E4J)](http://www.unodc.org/dohad
 The E4J initiative (http://www.unodc.org/dohadeclaration/topics/education-for-justice.html) aims to build a culture of lawfulness amongst children and youth through the provision of age-appropriate educational materials on topics related to criminal justice and crime prevention, including organized crime, human trafficking and migrant smuggling, cybercrime, and the integration of those materials into the curricula of primary, secondary and tertiary education levels.
 
 This event will explore insights and produce material for tertiary education, which includes universities and higher vocational institutes. At the tertiary level, E4J aims to develop modules and materials that support academics in their teaching and research activities related to UNODC mandate areas.
+
+## Contact
+If you have any questions please contact us at [joshua+LOCC@dfir.science](mailto:joshua+LOCC@dfir.science) or [kamola.ibragimova@un.org](kamola.ibragimova@un.org).
