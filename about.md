@@ -41,4 +41,4 @@ The E4J initiative (http://www.unodc.org/dohadeclaration/topics/education-for-ju
 This event will explore insights and produce material for tertiary education, which includes universities and higher vocational institutes. At the tertiary level, E4J aims to develop modules and materials that support academics in their teaching and research activities related to UNODC mandate areas.
 
 ## Contact
-If you have any questions please contact us at [joshua+LOCC@dfir.science](mailto:joshua+LOCC@dfir.science) or [kamola.ibragimova@un.org](kamola.ibragimova@un.org).
+If you have any questions please contact us at [joshua+LOCC@dfir.science](mailto:joshua+LOCC@dfir.science) or [kamola.ibragimova@un.org](mailto:kamola.ibragimova@un.org).
