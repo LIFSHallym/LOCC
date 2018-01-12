@@ -32,11 +32,12 @@ Authors **must** present their work in person at the conference. Authors should 
 At the conference, authors of accepted papers will be given 25 minutes to present their work, followed by 5 minutes of questions.
 
 ## Topics of Interest
-We seek research papers on the following topics:
-* **Case Studies very much preferred**
-*	Organized crime enabled/supported by technology
-*	Trafficking in persons and smuggling of migrants enabled/supported by technology
-*	New types of organized crime in cyberspace
+Research papers on the following topics are being sought (**with preference given to case studies**):
+* Organized crime enabled/supported by technology
+  * Including but not limited to: money laundering, corruption, obstruction of justice, trafficking in drugs as well as participation in an organized criminal group (i.e. how technology enables/facilitates/shapes/changes participation).
+* Trafficking in persons and smuggling of migrants enabled/supported by technology
+* New / emerging types of organized crime in cyberspace
+  * Including but not limited to: wildlife trafficking, trafficking in cultural property, production and sale of falsified medical products and counterfeit goods (such as foodstuff, clothing, electronics, etc.)
 
 ## Submit
 Submit research papers at [https://easychair.org/conferences/?conf=locc2018](https://easychair.org/conferences/?conf=locc2018).

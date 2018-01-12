@@ -17,10 +17,10 @@ will be provided with flights and a per diem scholarship.
 UNODC will cover the cost of participation of the selected authors, in accordance with UN financial rules and regulations (i.e. daily subsistence allowance and economy-class airfare).
 
 ## Dates
-* Call for Papers: December 18, 2017
+* Call for Papers: January 15, 2018
 * Submissions Due: March 30, 2018 (AoE)
 * Author Notification: April 30, 2018
-* Conference: June 6-7, 2018
+* Conference: June 7-8, 2018
 
 ## Location
 Legal Informatics and Forensic Science Institute, Hallym University,

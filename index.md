@@ -15,15 +15,15 @@ will be provided with flights and a per diem scholarship.
 ## Topics of Interest
 Research papers on the following topics are being sought (**with preference given to case studies**):
 *	Organized crime enabled/supported by technology
-- Including but not limited to: money laundering, corruption, obstruction of justice, trafficking in drugs as well as participation in an organized criminal group (i.e. how technology enables/facilitates/shapes/changes participation).
+  * Including but not limited to: money laundering, corruption, obstruction of justice, trafficking in drugs as well as participation in an organized criminal group (i.e. how technology enables/facilitates/shapes/changes participation).
 *	Trafficking in persons and smuggling of migrants enabled/supported by technology
 *	New types of organized crime in cyberspace
-- Including but not limited to: wildlife trafficking, trafficking in cultural property, production and sale of falsified medical products and counterfeit goods (such as foodstuff, clothing, electronics, etc.)
+  * Including but not limited to: wildlife trafficking, trafficking in cultural property, production and sale of falsified medical products and counterfeit goods (such as foodstuff, clothing, electronics, etc.)
 
 Please [submit](https://locc.dfir.science/submit/) your paper now.
 
 ## Dates
-* Call for Papers: December 18, 2017
+* Call for Papers: January 15, 2018
 * Submissions Due: March 30, 2018 (AoE)
 * Author Notification: April 30, 2018
-* Conference: June 6-7, 2018
+* Conference: June 7-8, 2018
