@@ -69,7 +69,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Alembic" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Linking Organized Crime and Cybercrime, June 26-27, 2018 in Chuncheon, South Korea" # Site description and default description, also used in jekyll-seo-tag
+description: "Linking Organized Crime and Cybercrime, June 7-8, 2018 in Chuncheon, South Korea" # Site description and default description, also used in jekyll-seo-tag
 url: "https://LOCC.DFIR.Science" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: ""
