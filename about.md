@@ -7,6 +7,8 @@ aside: false
 ---
 Linking Organized Crime and Cybercrime 2018 in Chuncheon, South Korea is dedicated to understanding the way organized criminal groups are using technology to facilitate traditional crime, and conduct new types of crime. [Submit](https://locc.dfir.science/submit/) your paper now.
 
+**[Registration is now open!](https://docs.google.com/forms/d/e/1FAIpQLSfBJN7sDZD0UoHxs7N06fIFm_LDOYAWwNUXdz5G3u-0ZdwQtg/viewform?usp=sf_link)
+
 ## Fees
 LOCC 2018 is generously sponsored by the [United Nations Office on Drugs and Crime](https://unodc.org)
 under its Global Programme for the Implementation of the Doha Declaration.

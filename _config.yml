@@ -80,6 +80,7 @@ avatarurl: "" # Uses avatars for favicons to get multple sites, eg Gravatar, Twi
 # 8. Site navigation
 navigation_header:
   Home: /
+  Register: https://docs.google.com/forms/d/e/1FAIpQLSfBJN7sDZD0UoHxs7N06fIFm_LDOYAWwNUXdz5G3u-0ZdwQtg/viewform?usp=sf_link
   Submit: /submit/
   About: /about/
   News: /news/
