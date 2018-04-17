@@ -22,8 +22,6 @@ Research papers on the following topics are being sought (**with preference give
 *	New types of organized crime in cyberspace
   * Including but not limited to: wildlife trafficking, trafficking in cultural property, production and sale of falsified medical products and counterfeit goods (such as foodstuff, clothing, electronics, etc.)
 
-Please [submit](https://locc.dfir.science/submit/) your paper now.
-
 ## Dates
 * Call for Papers: January 15, 2018
 * Submissions Due: March 30, 2018 (AoE)
