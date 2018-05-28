@@ -7,7 +7,7 @@ excerpt: ""
 
 **[Registration is now open!](https://docs.google.com/forms/d/e/1FAIpQLSfBJN7sDZD0UoHxs7N06fIFm_LDOYAWwNUXdz5G3u-0ZdwQtg/viewform?usp=sf_link)**
 
-<img src="assets/LOCCConferenceBannerWeb.jpg"></img>
+<img src="/assets/LOCCConferenceBannerWeb.jpg"></img>
 
 Linking Organized Crime and Cybercrime 2018 in Chuncheon, South Korea is dedicated to understanding the way organized criminal groups are using technology to facilitate traditional crime, and conduct new types of crime. The goal of LOCC 2018 is to produce novel insights into the linkages between organized and cyber crime. Organized criminal groups have increasingly adopted technology to commit offences, and new types of crime are also made possible through new technologies. This conference is concerned with the way that organized crime, including trafficking in persons and smuggling of migrants, is enabled or supported by technology.
 
@@ -17,7 +17,9 @@ There are **no submission, publication or registration fees**. Further, accepted
 will be provided with flights and a per diem scholarship.
 
 ## Agenda
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSotOQNa5fZ3-jntiwyoTDU9uRwddsI4PiOE_9z-8cY690w4gm4vcSM35VIsqB8w6t6w7PGM7eUh0o6/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://docs.google.com/spreadsheets/d/e/2PACX-1vSotOQNa5fZ3-jntiwyoTDU9uRwddsI4PiOE_9z-8cY690w4gm4vcSM35VIsqB8w6t6w7PGM7eUh0o6/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false' style='border:0'></iframe></div>
+
+**Note:** The agenda is subject to change.
 
 ## Dates
 * Call for Papers: January 15, 2018

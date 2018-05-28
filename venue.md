@@ -5,6 +5,8 @@ feature_image: ""
 excerpt: "About Chuncheon, Korea and the venue"
 aside: false
 ---
+한국어 지원은 <a href="/assets/LOCC2018GuideKO.pdf">이곳을</a> 클릭하세요.
+
 Linking Organized Crime and Cybercrime 2018 will be held at Hallym University in
 Chuncheon, South Korea on June 7-8, 2018.
 
@@ -45,14 +47,14 @@ Chuncheon is a frequent tourist destination, and has many hotel options. Sejong 
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3148.8730050993304!2d127.72919801562522!3d37.88665251348717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3562e5e70ef1b40f%3A0x9beaf68af29dfc80!2sSejong+Hotel+Chunchon!5e0!3m2!1sen!2skr!4v1527488873294' width='600' height='450' frameborder='0' style='border:0'></iframe></div>
 
-Other hotels we recommend:
+### Other hotels we recommend
 * [KT&G Sangsangmadang Chuncheon](https://www.booking.com/hotel/kr/kt-amp-g-sangsangmadang-chuncheon-stay.en-gb.html?aid=357026;label=gog235jc-hotel-XX-kr-ktNampNgNsangsangmadangNchuncheonNstay-unspec-kr-com-L%3Aen-O%3AwindowsS10-B%3Achrome-N%3AXX-S%3Abo-U%3AXX-H%3As;sid=dc09bde7d6a3eea1dc896fa639e5029c;dist=0&group_adults=2&group_children=0&no_rooms=1&sb_price_type=total&type=total&)
 * [Other options](https://www.booking.com/city/kr/chunchon.en-gb.html?aid=357026;label=gog235jc-city-XX-kr-chunchon-unspec-kr-com-L%3Aen-O%3AwindowsS10-B%3Achrome-N%3AXX-S%3Abo-U%3AXX-H%3As;sid=dc09bde7d6a3eea1dc896fa639e5029c;inac=0&)
 
 ### Sejong Hotel to the venue
 We will assist delegates from the Sejong Hotel to the venue. Either by helping to call a taxi, or by walking delegates. The Sejong Hotel is approximately a 10 minute walk from campus, and another 5 minutes to the venue.
 
-<img src="/assets/SejongToHallym.jpg"></img>
+<img src="/assets/SejongToHallym.jpg" />
 
 ## Getting around
 Chuncheon is a relatively small town, and it well serviced by public transport and taxis. Taxi is the most convenient method, and drivers are normally very friendly. A taxi ride across town is normally less than 4,000KRW (3.50USD).
