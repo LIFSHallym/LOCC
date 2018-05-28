@@ -83,7 +83,7 @@ navigation_header:
   Register: https://docs.google.com/forms/d/e/1FAIpQLSfBJN7sDZD0UoHxs7N06fIFm_LDOYAWwNUXdz5G3u-0ZdwQtg/viewform?usp=sf_link
 #  Submit: /submit/
   About: /about/
-  News: /news/
+  #News: /news/
   Venue: /venue/
 
 navigation_footer:

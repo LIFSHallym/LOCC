@@ -5,9 +5,12 @@ feature_image: ""
 excerpt: "About LOCC2018"
 aside: false
 ---
-Linking Organized Crime and Cybercrime 2018 in Chuncheon, South Korea is dedicated to understanding the way organized criminal groups are using technology to facilitate traditional crime, and conduct new types of crime. [Submit](https://locc.dfir.science/submit/) your paper now.
+Linking Organized Crime and Cybercrime 2018 in Chuncheon, South Korea is dedicated to understanding the way organized criminal groups are using technology to facilitate traditional crime, and conduct new types of crime.
 
-**[Registration is now open!](https://docs.google.com/forms/d/e/1FAIpQLSfBJN7sDZD0UoHxs7N06fIFm_LDOYAWwNUXdz5G3u-0ZdwQtg/viewform?usp=sf_link)
+[Registration is now open!](https://docs.google.com/forms/d/e/1FAIpQLSfBJN7sDZD0UoHxs7N06fIFm_LDOYAWwNUXdz5G3u-0ZdwQtg/viewform?usp=sf_link)
+
+## 한국어로 된 정보
+<a href="assets/LOCC2018GuideKO.pdf">한국어 지원은 이곳을 클릭하세요.</a>
 
 ## Fees
 LOCC 2018 is generously sponsored by the [United Nations Office on Drugs and Crime](https://unodc.org)
@@ -25,10 +28,10 @@ UNODC will cover the cost of participation of the selected authors, in accordanc
 * Conference: June 7-8, 2018
 
 ## Location
-Legal Informatics and Forensic Science Institute, Hallym University,
-1 Hallym University Road, Chuhcheon, Gangwon, South Korea 24252
+* Campus Life Center, Building 9, Room 406, Hallym University, 1 Hallym University Road, Chuhcheon, Gangwon, South Korea 24252
+* 24252 강원도 춘천시 한림대학길1 라이프센터 4층 비전홀
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3148.891108137987!2d127.73557815134826!3d37.8862291796398!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3562e5e939c43ac7%3A0x2419c3aa2130905c!2sHallym+University!5e0!3m2!1sen!2skr!4v1512983018581" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1574.436556413475!2d127.73936208361121!3d37.88664999432265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3562e5ec04ec905f%3A0x88f7e5220b269885!2sCampus+Life+Center!5e0!3m2!1sen!2skr!4v1527488672453" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## Goal
 The goal of LOCC 2018 is to produce novel insights into the linkages between organized crime and cyberspace. Organized crime has increasingly adopted technology to commit crime, and new types of crime are also may possible by cyberspace. This conference is concerned with the way that organized criminals are enabled or supported by technology, especially related to trafficking in persons and smuggling of migrants.
@@ -43,4 +46,4 @@ The E4J initiative (http://www.unodc.org/dohadeclaration/topics/education-for-ju
 This event will explore insights and produce material for tertiary education, which includes universities and higher vocational institutes. At the tertiary level, E4J aims to develop modules and materials that support academics in their teaching and research activities related to UNODC mandate areas.
 
 ## Contact
-If you have any questions please contact us at [joshua+LOCC@dfir.science](mailto:joshua+LOCC@dfir.science) or [kamola.ibragimova@un.org](mailto:kamola.ibragimova@un.org).
+If you have any questions please contact us at [lifs@hallym.ac.kr](mailto:lifs@hallym.ac.kr).
