@@ -22,7 +22,7 @@ Campus Life Center, Building 9, Room 406, Hallym University,
 South Korea has two main airports, Incheon International (ICN) and Gimpo International (GMP).
 
 ## Currency
-The Republic of Korea uses the South Korean Won (KRW). At this time 1,000KRW is usually very close to 1USD. ATMs are very common (and safe) in South Korea, and credit cards are accepted almost everywhere.
+The Republic of Korea uses the South Korean Won (KRW). At this time 1,000KRW is usually very close to 1USD. ATMs are very common (and safe) in South Korea, and credit cards are accepted everywhere.
 
 The currency exchange with the best rates can be found in the bottom floor of Seoul Station near the AREX airport direct train.
 
@@ -31,9 +31,12 @@ If you need assistance getting from the airport, please email your flight arriva
 
 Taking a bus is the easiest way. Both ICN and GMP have a direct bus to Chuncheon. Bus tickets can be purchased in the arrivals level of each airport. Helpers in at the information booth (with an "i") can help you in multiple languages. Bus ticket machines can be switched to different languages. Chuncheon terminal will be the last station. Bus ticket prices are approximately 16,000KRW one-way, and will take about 2 hours.
 
-The South Korean train system is also excellent. Station names are in Korean and English, and stop calls are in multiple languages for main lines. ICN and GMP connect to the Seoul Subway. From the airport, you should go to Seoul Station, and transfer to Youngsan Station. The airport to Youngsan station will cost approximately 2,000KRW.
 
-From Youngsan, I recommend taking the ITX (fast train) to Chuncheon (last stop). The price is 7,000KRW, and it takes approximately 1.5 hours.
+The South Korean train system is also excellent, but does not provide a direct option. Station names are in Korean and English, and stop calls are in multiple languages for main lines. ICN and GMP connect to the Seoul Subway. From the airport, take the subway (or AREX) to Seoul Station. Once at Seoul Station, transfer to Yongsan Station (용산역). The subway from the airport to Yongsan station will cost approximately 2,000KRW. The AREX (fast train) will cost about 10,000KRW.
+
+From Yongsan, we recommend taking the ITX (fast train) to Chuncheon (last stop). The price is 7,000KRW, and it takes approximately 1.5 hours.
+
+More information about travel in Korea can be found here: [http://english.visitkorea.or.kr\(http://english.visitkorea.or.kr).
 
 ## Arriving to Chuncheon
 If you need assistance getting to your hotel please email <a href="mailto:lifs@hallym.ac.kr">lifs@hallym.ac.kr</a>, and we will help you arrange travel. Please be aware that June 6th is a holiday in South Korea. Bus and train services will still be running.
@@ -57,6 +60,6 @@ We will assist delegates from the Sejong Hotel to the venue. Either by helping t
 <img src="/assets/SejongToHallym.jpg" />
 
 ## Getting around
-Chuncheon is a relatively small town, and it well serviced by public transport and taxis. Taxi is the most convenient method, and drivers are normally very friendly. A taxi ride across town is normally less than 4,000KRW (3.50USD).
+Chuncheon is a relatively small town, and it well serviced by public transport and taxis. Taxi is the most convenient method, and drivers are normally very friendly. A taxi ride across town is normally less than 5,000KRW (5USD).
 
 South Korea has excellent public transportation throughout the country. Most public transportation is in both Korean and English (sometimes Chinese and Japanese too).
