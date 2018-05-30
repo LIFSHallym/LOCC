@@ -11,6 +11,8 @@ Linking Organized Crime and Cybercrime 2018 will be held at Hallym University in
 Chuncheon, South Korea on June 7-8, 2018.
 
 ## Location
+<img src="/assets/LOCC2018Venue.jpg" />
+
 Campus Life Center, Building 9, Room 406, Hallym University,
 1 Hallym University Road, Chuhcheon, Gangwon, South Korea 24252
 
